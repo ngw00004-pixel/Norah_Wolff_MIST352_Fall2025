@@ -1,0 +1,8 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\bin\Debug\Practice1.exe.config
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\bin\Debug\Practice1.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\bin\Debug\Practice1.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\obj\Debug\Practice1.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\obj\Debug\Practice1.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Practice1\obj\Debug\Practice1.exe.config
