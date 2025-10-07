@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\In_Class_Tasks\\In_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBCC703C-313E-4A55-BDCA-2350D694B1CD}|In_Class.csproj|c:\\users\\norah\\onedrive\\mist352-fall25\\norah_wolff_mist352_fall2025\\in_class_tasks\\in_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBCC703C-313E-4A55-BDCA-2350D694B1CD}|In_Class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\In_Class_Tasks\\In_Class\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\In_Class_Tasks\\In_Class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T15:49:17.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

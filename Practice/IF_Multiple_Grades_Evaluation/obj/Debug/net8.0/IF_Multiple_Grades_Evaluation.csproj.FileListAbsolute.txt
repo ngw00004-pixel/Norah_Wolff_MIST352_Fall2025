@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\bin\Debug\net8.0\IF_Multiple_Grades_Evaluation.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\bin\Debug\net8.0\IF_Multiple_Grades_Evaluation.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\bin\Debug\net8.0\IF_Multiple_Grades_Evaluation.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\bin\Debug\net8.0\IF_Multiple_Grades_Evaluation.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\bin\Debug\net8.0\IF_Multiple_Grades_Evaluation.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\refint\IF_Multiple_Grades_Evaluation.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\IF_Multiple_Grades_Evaluation.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\IF_Multiple_Grades_Evaluation\obj\Debug\net8.0\ref\IF_Multiple_Grades_Evaluation.dll

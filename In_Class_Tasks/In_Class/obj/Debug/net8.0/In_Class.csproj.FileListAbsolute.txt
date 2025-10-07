@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\bin\Debug\net8.0\In_Class.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\bin\Debug\net8.0\In_Class.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\bin\Debug\net8.0\In_Class.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\bin\Debug\net8.0\In_Class.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\bin\Debug\net8.0\In_Class.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\refint\In_Class.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\In_Class.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\In_Class\obj\Debug\net8.0\ref\In_Class.dll

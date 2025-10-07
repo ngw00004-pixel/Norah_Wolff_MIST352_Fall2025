@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\Practice\\CH2 Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6005332-E152-481F-BC89-EA876CC0C74D}|CH2 Practice.csproj|c:\\users\\norah\\onedrive\\mist352-fall25\\norah_wolff_mist352_fall2025\\practice\\ch2 practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6005332-E152-481F-BC89-EA876CC0C74D}|CH2 Practice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\Practice\\CH2 Practice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\norah\\OneDrive\\MIST352-FALL25\\Norah_Wolff_MIST352_Fall2025\\Practice\\CH2 Practice\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAUwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T23:25:57.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

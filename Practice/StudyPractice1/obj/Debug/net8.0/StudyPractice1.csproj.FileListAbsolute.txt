@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\bin\Debug\net8.0\StudyPractice1.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\bin\Debug\net8.0\StudyPractice1.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\bin\Debug\net8.0\StudyPractice1.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\bin\Debug\net8.0\StudyPractice1.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\bin\Debug\net8.0\StudyPractice1.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\refint\StudyPractice1.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\StudyPractice1.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\StudyPractice1\obj\Debug\net8.0\ref\StudyPractice1.dll

@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\bin\Debug\net8.0\Chapter 3 arrays and loops.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\bin\Debug\net8.0\Chapter 3 arrays and loops.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\bin\Debug\net8.0\Chapter 3 arrays and loops.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\bin\Debug\net8.0\Chapter 3 arrays and loops.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\bin\Debug\net8.0\Chapter 3 arrays and loops.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\refint\Chapter 3 arrays and loops.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\Chapter 3 arrays and loops.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\Practice\Chapter 3 arrays and loops\obj\Debug\net8.0\ref\Chapter 3 arrays and loops.dll

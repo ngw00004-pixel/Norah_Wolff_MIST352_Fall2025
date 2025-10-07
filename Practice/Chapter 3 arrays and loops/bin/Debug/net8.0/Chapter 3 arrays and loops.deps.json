@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chapter 3 arrays and loops/1.0.0": {
+        "runtime": {
+          "Chapter 3 arrays and loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chapter 3 arrays and loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
