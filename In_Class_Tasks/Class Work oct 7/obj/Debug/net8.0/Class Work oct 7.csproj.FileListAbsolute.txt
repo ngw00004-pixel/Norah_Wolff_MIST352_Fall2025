@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\bin\Debug\net8.0\Class Work oct 7.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\bin\Debug\net8.0\Class Work oct 7.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\bin\Debug\net8.0\Class Work oct 7.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\bin\Debug\net8.0\Class Work oct 7.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\bin\Debug\net8.0\Class Work oct 7.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\refint\Class Work oct 7.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\Class Work oct 7.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Class Work oct 7\obj\Debug\net8.0\ref\Class Work oct 7.dll

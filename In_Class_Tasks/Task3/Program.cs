@@ -3,7 +3,7 @@
  * TASK 3 ask user for given number of items and collect each item
  */
 using System;
-
+ 
 namespace Task3
 {
     internal class Program
