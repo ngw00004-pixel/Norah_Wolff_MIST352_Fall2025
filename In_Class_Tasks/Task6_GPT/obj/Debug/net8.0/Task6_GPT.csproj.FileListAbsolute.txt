@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\bin\Debug\net8.0\Task6_GPT.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\bin\Debug\net8.0\Task6_GPT.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\bin\Debug\net8.0\Task6_GPT.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\bin\Debug\net8.0\Task6_GPT.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\bin\Debug\net8.0\Task6_GPT.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\refint\Task6_GPT.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\Task6_GPT.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Task6_GPT\obj\Debug\net8.0\ref\Task6_GPT.dll

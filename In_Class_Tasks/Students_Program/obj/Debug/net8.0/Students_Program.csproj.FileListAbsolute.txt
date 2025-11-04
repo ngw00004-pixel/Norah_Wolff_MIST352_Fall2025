@@ -1,0 +1,15 @@
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\bin\Debug\net8.0\Students_Program.exe
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\bin\Debug\net8.0\Students_Program.deps.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\bin\Debug\net8.0\Students_Program.runtimeconfig.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\bin\Debug\net8.0\Students_Program.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\bin\Debug\net8.0\Students_Program.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.AssemblyInfoInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.AssemblyInfo.cs
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.csproj.CoreCompileInputs.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.sourcelink.json
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\refint\Students_Program.dll
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.pdb
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\Students_Program.genruntimeconfig.cache
+C:\Users\norah\OneDrive\MIST352-FALL25\Norah_Wolff_MIST352_Fall2025\In_Class_Tasks\Students_Program\obj\Debug\net8.0\ref\Students_Program.dll
