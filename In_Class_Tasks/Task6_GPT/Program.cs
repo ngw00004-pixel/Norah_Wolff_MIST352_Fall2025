@@ -36,8 +36,16 @@
    - Displays all their information
    - Demonstrates deposit and withdraw methods
 ---------------------------------------------------------------
-*/
 
+
+
+- ChatGPT’s DisplayInfo() and DisplaySummary() methods used string interpolation ($"...")
+- mine used Console.WriteLine() statements separately for each line.
+- I used simpler calculations for employee annual salary, while ChatGPT formatted it with rounding and currency.
+- I manually validated or assigned default values inside constructors.
+-ChatGPT’s constructors were slightly more concise, sometimes using this()
+*/
+s
 namespace Task6_GPT
 {
     internal class Program
